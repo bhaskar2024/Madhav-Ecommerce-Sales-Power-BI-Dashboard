@@ -8,5 +8,5 @@ Orders.csv
 Details.csv
 
 ## Dashboard
-https://github.com/bhaskar2024/Madhav-Ecommerce-Sales-Power-BI-Dashboard/blob/main/Power%20BI%20Dashboard%20Project.png
+(https://github.com/bhaskar2024/Madhav-Ecommerce-Sales-Power-BI-Dashboard/blob/main/Power%20BI%20Dashboard%20Project.png)
 
